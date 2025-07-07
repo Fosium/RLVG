@@ -1,4 +1,4 @@
-import json
+import json 
 import os
 from time import sleep
 from PIL import Image
